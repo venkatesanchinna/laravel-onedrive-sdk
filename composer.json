@@ -1,0 +1,28 @@
+{
+    "name": "venkatesanchinna/laravel-onedrive-sdk",
+    "description": "Integrate Google onedrive with laravel",
+    "homepage": "https://github.com/venkatesanchinna/laravel-onedrive-sdk/",
+    "keywords": ["laravel", "one-drive", "ondrive", "google onedrive", "laravel onedrive","laravel one drive","laravel drive","onedrive sdk ","laravel onedrive sdk"],
+    "type": "laravel-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/venkatesanchinna/laravel-onedrive-sdk/issues",
+        "source": "https://github.com/venkatesanchinna/laravel-onedrive-sdk/"
+    },
+    "authors": [
+        {
+            "name": "Venkatesan C",
+            "email": "venkatesangee@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/laravel": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "venkatesanchinna\\laravelonedrive\\": ""
+        }
+    }
+}
